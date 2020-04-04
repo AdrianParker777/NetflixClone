@@ -167,6 +167,27 @@ img{
 .table tbody tr:nth-child(odd){
     background: #222222;
 }
+/*Footer*/
+.footer{
+    max-width: 75%;
+    margin: 2rem auto;
+    overflow: auto;
+}
+.footer, .footer a{
+    color: #999999;
+    font-size: 0.8rem;
+}
+.footer p{
+    margin-bottom: 1.5rem;
+}
+.footer .footer-cols{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 2rem;
+}
+.footer li{
+    line-height: 1.9;
+}
 /*Container*/
 .container{
     max-width: 70%;
@@ -240,4 +261,37 @@ img{
     font-size: 1.4rem;
     padding: 0.8rem 1.3rem;
     text-transform: uppercase;
+}
+@media(max-width:960px){
+    .showcase{
+        height: 70vh;
+    }
+    .hide-sm{
+        display: none;
+    }
+    .showcase-top img{
+        top:30%;
+        left:5%;
+        transform: translate(0);
+    }
+    .showcase-content h1{
+        font-size: 3.7rem;
+        line-height: 1;
+    }
+    .showcase-content p{
+        font-size: 1.5rem;
+    }
+    .btn-xl{
+        font-size: 1.5rem;
+        padding:1.4rem 2rem;
+    }
+    .text-xl{
+        font-size: 1.5rem;
+    }
+    .text-lg{
+        font-size: 1.3rem;
+    }
+    .text-lg{
+        font-size: 1rem;
+    }
 }
