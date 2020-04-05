@@ -1,4 +1,13 @@
-[33m783a7e0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Adding styling for tabs
-[33m61950a5[m Adding three tabs
-[33m803be8a[m Adding Files
-[33m4d6cb7b[m Initial commit
+Changelog
+=========
+
+
+(unreleased)
+------------
+- Fixed Readme file(2nd try) [AdrianParker777]
+- Fixed Readme file. [AdrianParker777]
+- Added Changelog. [AdrianParker777]
+- Adding styling for tabs. [AdrianParker777]
+- Adding three tabs. [AdrianParker777]
+- Adding Files. [AdrianParker777]
+- Initial commit. [AdrianParker777]
