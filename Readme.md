@@ -2,6 +2,8 @@
 #
 Build as a side project for learning purpose only
 The pictures used in this project are proprerty of Netflix
+#
 External Font Used: Fontawesome
+#
 [Font Link:Fontawesome](https://fontawesome.com/)
 
